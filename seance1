@@ -1,1 +1,26 @@
+    • Catalogue : au moins 20 œuvres fournies au démarrage, chacune avec titre, année, genre et réalisateur (films) ou studio et plateforme (jeux).
+À deux
+Films :
+jeux videos :
 
+      
+    • Gestion du catalogue : ajouter, modifier et supprimer une œuvre.
+Ilyes
+
+    • Comptes : créer un compte (pseudo unique), se connecter, se déconnecter.
+Nathan
+
+    • Notes : un utilisateur connecté donne une note de 1 à 5 étoiles à une œuvre ; une seule note par utilisateur et par œuvre, qu'il peut modifier.
+Ilyes
+
+    • Commentaires : écrire un commentaire daté sous une œuvre.
+
+
+    • Fiche d'une œuvre : informations, moyenne des notes affichée en étoiles (ex. ★★★★☆ 3,8/5 (12 avis)), commentaires du plus récent au plus ancien.
+
+
+    • Recherche et tri : rechercher par titre ou par genre ; trier par note moyenne ou par année.
+
+
+    • Sauvegarde : toutes les données sont conservées après fermeture du programme. 
+      À deux
